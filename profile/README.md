@@ -7,6 +7,20 @@
 |ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
 |ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
 
+<details>
+<summary>
+  See More...
+</summary>
+<div markdown="1">
+
+|Name|Project|Result|Member|
+|:---:|:---:|:---:|:---:|
+|Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseop & Sangmin & Seongjae 
+|ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseop
+
+</div>
+</details>
+
 # 🛠️ Skill
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhackathemy&count_bg=%23CBA6E6&title_bg=%238E22DA&icon=&icon_color=%23FFFAFA&title=Review&edge_flat=false)](https://hits.seeyoufarm.com)
