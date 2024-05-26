@@ -15,8 +15,8 @@
 
 |Name|Project|Result|Member|
 |:---:|:---:|:---:|:---:|
-|Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseop & Sangmin & Seongjae 
-|ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseop
+|Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseup & Sangmin & Seongjae 
+|ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseup
 
 </div>
 </details>
