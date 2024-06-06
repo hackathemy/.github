@@ -2,11 +2,11 @@
 
 # 🏆 Challenge
 
-|Name|Project|Result|Member|
-|:---:|:---:|:---:|:---:|
-|ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
-|ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
-|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place| Yong & Seongjae & Jinhwan & Jeongseup
+|Date|Name|Project|Result|Member|
+|:---:|:---:|:---:|:---:|:---:|
+|2023|ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
+|2024|ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
+|2024|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place| Yong & Seongjae & Jinhwan & Jeongseup
 
 <details>
 <summary>
