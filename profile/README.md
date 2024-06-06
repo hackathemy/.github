@@ -6,6 +6,7 @@
 |:---:|:---:|:---:|:---:|
 |ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
 |ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
+|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place| Yong & Seongjae & Jinhwan & Jeongseup
 
 <details>
 <summary>
@@ -17,7 +18,6 @@
 |:---:|:---:|:---:|:---:|
 |Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseup & Sangmin & Seongjae 
 |ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseup
-|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|❓ Coming soon| Yong & Seongjae & Jinhwan & Jeongseup
 |Sui Overflow|[Betmeme](https://devfolio.co/projects/dappassistants-9d92)|❓ Coming soon| Yong & Junhyoung & Taejin & Yewon & Donggyun
 |Sui Overflow|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|❓ Coming soon| Jinhwan & Jeongseup & Seongjae
 
