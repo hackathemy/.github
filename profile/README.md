@@ -18,7 +18,7 @@
 |:---:|:---:|:---:|:---:|
 |Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseup & Sangmin & Seongjae 
 |ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseup
-|Sui Overflow|[Betmeme]()|❓ Coming soon| Yong & Junhyoung & Taejin & Yewon & Donggyun
+|Sui Overflow|[Betmeme]()|❓ Coming soon| Yong & Junhyoung & Taejin & Yewon
 |Sui Overflow|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|❓ Coming soon| Jinhwan & Jeongseup & Seongjae
 |Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|❓ Coming soon| Yewon & Semin & Jinhwan & Junhyoung & Seongjae 🃏 Yong
 
