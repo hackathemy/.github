@@ -2,11 +2,13 @@
 
 # 🏆 Challenge Awards
 
-|Date|Name|Project|Result|Member|
-|:---:|:---:|:---:|:---:|:---:|
-|2023|ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
-|2024|ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
-|2024|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place, Connect Modular Expansion with Hyperlane| Yong & Seongjae & Jinhwan & Jeongseup
+|Date|Name|Category|Project|Result|Member|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023|ETHGlobal 2023 Online|Service|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
+|2024|ETHGlobal: Frameworks|Service & Gaming|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
+|2024|Celestia's Infinite Space Bazaar Hackathon|Infra|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place, Connect Modular Expansion with Hyperlane| Yong & Seongjae & Jinhwan & Jeongseup
+|2024|Sui Overflow|DeFi|[Betmeme]()|🥈 Fud the Dog — 2nd Place| Yong & Junhyoung & Taejin & Yewon
+|2024|Sui Overflow|Service & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place| Jinhwan & Jeongseup & Seongjae
 
 <details>
 <summary>
@@ -18,8 +20,6 @@
 |:---:|:---:|:---:|:---:|
 |Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseup & Sangmin & Seongjae 
 |ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseup
-|Sui Overflow|[Betmeme]()|❓ Coming soon| Yong & Junhyoung & Taejin & Yewon
-|Sui Overflow|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|❓ Coming soon| Jinhwan & Jeongseup & Seongjae
 |Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|❓ Coming soon| Yewon & Semin & Jinhwan & Junhyoung & Seongjae 🃏 Yong
 
 </div>
