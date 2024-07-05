@@ -4,11 +4,11 @@
 
 |Date|Name|Category|Project|Result|Member|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2023|ETHGlobal 2023 Online|Service|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
-|2024|ETHGlobal: Frameworks|Service & Gaming|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
-|2024|Celestia's Infinite Space Bazaar Hackathon|Infra|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place, Connect Modular Expansion with Hyperlane| Yong & Seongjae & Jinhwan & Jeongseup
-|2024|Sui Overflow|DeFi|[Betmeme]()|🥈 Fud the Dog — 2nd Place| Yong & Junhyoung & Taejin & Yewon
-|2024|Sui Overflow|Service & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place| Jinhwan & Jeongseup & Seongjae
+|2023.10|ETHGlobal 2023 Online|Service|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|Yong & Jinhwan & Seongjae
+|2024.04|ETHGlobal: Frameworks|Service & Gaming|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
+|2024.06|Celestia's Infinite Space Bazaar Hackathon|Infra|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place, Connect Modular Expansion with Hyperlane| Yong & Seongjae & Jinhwan & Jeongseup
+|2024.06|Sui Overflow|DeFi|[Betmeme]()|🥈 Fud the Dog — 2nd Place| Yong & Junhyoung & Taejin & Yewon
+|2024.06|Sui Overflow|Service & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place| Jinhwan & Jeongseup & Seongjae
 
 <details>
 <summary>
