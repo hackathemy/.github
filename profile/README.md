@@ -20,7 +20,7 @@
 |:---:|:---:|:---:|:---:|
 |Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseup & Sangmin & Seongjae 
 |ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseup
-|Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|❓ Coming soon| Yewon & Semin & Jinhwan & Junhyoung & Seongjae 🃏 Yong
+|Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|😭 Fail| Yewon & Semin & Jinhwan & Junhyoung & Seongjae 🃏 Yong
 
 </div>
 </details>
