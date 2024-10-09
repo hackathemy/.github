@@ -21,7 +21,10 @@
 |:---:|:---:|:---:|:---:|
 |Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseup & Sangmin & Seongjae 
 |ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseup
-|Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|😭 Fail| Yewon & Semin & Jinhwan & Junhyoung & Seongjae 🃏 Yong
+|Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|😭 Fail| Yewon & Semin & Jinhwan & Junhyoung & Seongjae & Yong
+|BNB Chain 2024 Q3 Hackathon|[WnW - Win with the wises](https://dorahacks.io/buidl/15630)|😭 Fail| Yewon & Semin & Chanho & Jiho & Seongjae & Yong
+|XRPL Hacakthon Seoul 2024|[Ripplemarket](https://docs.google.com/presentation/d/1rKydwCkYAoo4t626fCLn7JsdGnyy1jnnBbkax9OqyOA/edit#slide=id.g2f632f6b168_1_38)|😭 Fail| Jinhwan & Yong
+|Scroll Level Up Mini Hack|[Scrollipop](https://github.com/jaerius/secondhandMarket)|😭 Fail| Jaewon & Chanho & Seongjae & Yong
 
 </div>
 </details>
