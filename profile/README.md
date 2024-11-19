@@ -10,6 +10,7 @@
 |2024.06|Sui Overflow|DeFi|[Betmeme]()|🥈 Fud the Dog — 2nd Place| Yong & Junhyoung & Taejin & Yewon & Semin
 |2024.06|Sui Overflow|Service & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place| Jinhwan & Jeongseup & Seongjae
 |2024.08|Build the New Internet|Service & Payment|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect| Yong & Semin & Seongjae
+|2024.11|Build On|Service & Data|[DataDiscovery](https://devfolio.co/projects/discovey-5c68)|🥇 PYUSD — Buidl with PYUSD| Yong & Seongjae & Chanho & Jiho & Jaewon
 
 <details>
 <summary>
