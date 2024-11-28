@@ -11,6 +11,8 @@
 |2024.06|Sui Overflow|Service & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place| Jinhwan & Jeongseup & Seongjae
 |2024.08|Build the New Internet|Service & Payment|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect| Yong & Semin & Seongjae
 |2024.11|Build On|Service & Data|[DataDiscovery](https://devfolio.co/projects/discovey-5c68)|🥇 PYUSD — Buidl with PYUSD| Yong & Seongjae & Chanho & Jiho & Jaewon
+|2024.11|Chain Abstraction 2024|Service & E-Commerce|[Xchain Shop](https://github.com/juniahn-dev/xchainshop)|🥈 Agoric Orchestration - 2nd Place, 🛒 Honorable Mentions - SEDA| Yong & Seongjae & Junhyoung & Jiho & Jinhwan
+|2024.11|XRPL SEA HACKATHON 2024|Service & Data|[Ripple Market](https://dorahacks.io/buidl/18380/)|🥉 XRPL EVM Sidechain - 3rd place| Yong & Jinhwan & Seongjae & Chanho
 
 <details>
 <summary>
