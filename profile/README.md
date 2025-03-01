@@ -8,11 +8,11 @@
 |2024.03|ETHSeoul 2024|Service|[FheSig](https://devfolio.co/projects/fhesig-5d79)|🎉 Fhenix 3rd Place| Jinhwan
 |2024.04|ETHGlobal: Frameworks|Service & Gaming|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan| Yong & Seongjae
 |2024.05|Celestia's Infinite Space Bazaar Hackathon|Infra|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build Whatever — 3rd Place, Connect Modular Expansion with Hyperlane| Yong & Seongjae & Jinhwan & Jeongseup
-|2024.06|Sui Overflow|DeFi|[Betmeme]()|🥈 Fud the Dog — 2nd Place| Yong & Juniahn & Taejin & Yewon & Semin
+|2024.06|Sui Overflow|DeFi|[Betmeme]()|🥈 Fud the Dog — 2nd Place| Yong & Jacob & Taejin & Yewon & Semin
 |2024.06|Sui Overflow|Service & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place| Jinhwan & Jeongseup & Seongjae
 |2024.08|Build the New Internet|Service & Payment|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect| Yong & Semin & Seongjae
 |2024.11|Build On|Service & Data|[DataDiscovery](https://devfolio.co/projects/discovey-5c68)|🥇 PYUSD — Buidl with PYUSD| Yong & Seongjae & Chanho & Jiho & Jaewon
-|2024.11|Chain Abstraction 2024|Service & E-Commerce|[Xchain Shop](https://github.com/juniahn-dev/xchainshop)|🥈 Agoric Orchestration - 2nd Place, 🛒 Honorable Mentions - SEDA| Yong & Seongjae & Juniahn & Jiho & Jinhwan
+|2024.11|Chain Abstraction 2024|Service & E-Commerce|[Xchain Shop](https://github.com/juniahn-dev/xchainshop)|🥈 Agoric Orchestration - 2nd Place, 🛒 Honorable Mentions - SEDA| Yong & Seongjae & Jacob & Jiho & Jinhwan
 |2024.11|XRPL SEA HACKATHON 2024|Service & Data|[Ripple Market](https://dorahacks.io/buidl/18380/)|🥉 XRPL EVM Sidechain - 3rd place| Yong & Jinhwan & Seongjae & Chanho
 
 <details>
@@ -25,7 +25,7 @@
 |:---:|:---:|:---:|:---:|
 |Constellation: A Chainlink Hackathon|[Re-Fresh](https://devpost.com/software/re-fresh-0ocer8)|😭 Fail|Yong & Jinhwan & Jeongseup & Sangmin & Seongjae 
 |ETH Seoul 2024|[AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)|😭 Fail| Yong & Seongjae & Jinhwan & Jeongseup
-|Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|😭 Fail| Yewon & Semin & Jinhwan & Junhyoung & Seongjae & Yong
+|Onchain Summer Buildathon|[BetMeme](https://devfolio.co/projects/betmeme-b849)|😭 Fail| Yewon & Semin & Jinhwan & Jacob & Seongjae & Yong
 |BNB Chain 2024 Q3 Hackathon|[WnW - Win with the wises](https://dorahacks.io/buidl/15630)|😭 Fail| Yewon & Semin & Chanho & Jiho & Seongjae & Yong
 |XRPL Hacakthon Seoul 2024|[Ripplemarket](https://docs.google.com/presentation/d/1rKydwCkYAoo4t626fCLn7JsdGnyy1jnnBbkax9OqyOA/edit#slide=id.g2f632f6b168_1_38)|😭 Fail| Jinhwan & Yong
 |Scroll Level Up Mini Hack|[Scrollipop](https://github.com/jaerius/secondhandMarket)|😭 Fail| Jaewon & Chanho & Seongjae & Yong
